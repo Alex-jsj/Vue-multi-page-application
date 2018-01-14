@@ -1,0 +1,81 @@
+[{
+        "rank": 1,
+        "info": {
+            "uid": 9105,
+            "title": "研究生工作部",
+            "url": "javascript:void(0);"
+        }
+    },
+    {
+        "rank": 2,
+        "info": {
+            "uid": 9109,
+            "title": "教务处",
+            "url": "javascript:void(0);"
+        }
+    },
+    {
+        "rank": 3,
+        "info": {
+            "uid": 9113,
+            "title": "计划财务处",
+            "url": "javascript:void(0);"
+        }
+    },
+    {
+        "rank": 4,
+        "info": {
+            "uid": 9106,
+            "title": "学生工作部",
+            "url": "javascript:void(0);"
+        }
+    },
+    {
+        "rank": 5,
+        "info": {
+            "uid": 9110,
+            "title": "招生办公室",
+            "url": "javascript:void(0);"
+        }
+    },
+    {
+        "rank": 6,
+        "info": {
+            "uid": 9114,
+            "title": "校园建设和管理处",
+            "url": "javascript:void(0);"
+        }
+    },
+    {
+        "rank": 7,
+        "info": {
+            "uid": 9103,
+            "title": "纪监审办公室",
+            "url": "javascript:void(0);"
+        }
+    },
+    {
+        "rank": 8,
+        "info": {
+            "uid": 9107,
+            "title": "网络中心",
+            "url": "javascript:void(0);"
+        }
+    },
+    {
+        "rank": 9,
+        "info": {
+            "uid": 9111,
+            "title": "科研创作处",
+            "url": "javascript:void(0);"
+        }
+    },
+    {
+        "rank": 10,
+        "info": {
+            "uid": 9115,
+            "title": "工会",
+            "url": "http://web.q-huan.com/mygh/"
+        }
+    }
+]
